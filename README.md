@@ -6,6 +6,12 @@ Task Runners
 
 * [grunt](http://gruntjs.com/) - JavaScript task runner
 
+Troubleshooting
+-------------------
+
+* [node-inspector](https://npmjs.org/package/node-inspector) - Web Inspector based node debuggger
+  ```node --debug your/node/program.js```
+
 
 Node Modules
 -------------------
