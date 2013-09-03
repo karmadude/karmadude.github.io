@@ -17,6 +17,7 @@ Web Toolbox
 
 ### Data Structures
 
+* [Stream.js](http://streamjs.org/) - lazily evaluated data structure similar to arrays and linked lists that can contain infinite items.
 * [RBush](https://github.com/mourner/rbush) -  a high-performance JavaScript library for 2D spatial indexing of points and rectangles, based on an optimized R-tree data structure with bulk insertion support.
 
 ### UI
