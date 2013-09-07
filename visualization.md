@@ -1,4 +1,4 @@
-# Visaulization Toolbox
+# Visualization Toolbox
 
 #### Tutorials
 
