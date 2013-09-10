@@ -29,4 +29,5 @@ Web Toolbox
 
 ### Maps
 
+* [Leaflet Marker Cluster](https://github.com/Leaflet/Leaflet.markercluster)
 * [Leaflet Marker Spiderfier](https://github.com/jawj/OverlappingMarkerSpiderfier-Leaflet) - Spiderify overlapping markers in leaflet
