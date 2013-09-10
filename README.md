@@ -26,3 +26,7 @@ Web Toolbox
 * [Pines Notify](http://pinesframework.org/pnotify) - JavaScript notifications for Bootstrap or jQuery UI.
 * [toastr](https://github.com/CodeSeven/toastr) - Javascript library for non-blocking notifications. jQuery is required.
 * [alertify.js](http://fabien-d.github.io/alertify.js/) - Javascript dialogs and alerts.
+
+### Maps
+
+* [Leaflet Marker Spiderfier](https://github.com/jawj/OverlappingMarkerSpiderfier-Leaflet) - Spiderify overlapping markers in leaflet
