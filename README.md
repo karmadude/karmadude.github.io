@@ -27,6 +27,11 @@ Web Toolbox
 * [toastr](https://github.com/CodeSeven/toastr) - Javascript library for non-blocking notifications. jQuery is required.
 * [alertify.js](http://fabien-d.github.io/alertify.js/) - Javascript dialogs and alerts.
 
+### Style Guides
+
+* [Github CSS Styleguide](https://github.com/styleguide/css)
+* [Bootstrap HTML and CSS code guide](https://github.com/mdo/code-guide)
+
 ### Maps
 
 * [Leaflet Marker Cluster](https://github.com/Leaflet/Leaflet.markercluster)
