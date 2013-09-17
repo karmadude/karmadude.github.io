@@ -21,6 +21,10 @@ Web Toolbox
 * [RBush](https://github.com/mourner/rbush) -  a high-performance JavaScript library for 2D spatial indexing of points and rectangles, based on an optimized R-tree data structure with bulk insertion support.
 * [D3 Queue](https://github.com/mbostock/queue) - Asynchronous helper library for JavaScript
 
+### JavaScript
+
+* [Functional.js](http://osteele.com/sources/javascript/functional/) - A library for functional programming in JavaScript
+
 ### UI
 
 * [Pines Notify](http://pinesframework.org/pnotify) - JavaScript notifications for Bootstrap or jQuery UI.
