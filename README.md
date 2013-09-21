@@ -41,3 +41,15 @@ Web Toolbox
 
 * [Leaflet Marker Cluster](https://github.com/Leaflet/Leaflet.markercluster)
 * [Leaflet Marker Spiderfier](https://github.com/jawj/OverlappingMarkerSpiderfier-Leaflet) - Spiderify overlapping markers in leaflet
+
+### Curl
+
+Post data
+```
+curl -X POST -d 'foo=foo&bar=bar' localhost:8080
+```
+
+Post JSON
+```
+curl -X POST -d '{ "foo": "foo", "bar": "bar" }' -H 'Content-Type: application/json' localhost:8080
+```
