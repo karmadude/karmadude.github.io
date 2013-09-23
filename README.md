@@ -32,6 +32,14 @@ Web Toolbox
 * [alertify.js](http://fabien-d.github.io/alertify.js/) - Javascript dialogs and alerts.
 * [Ace Web Code Editor](http://ace.c9.io/)
 
+### UI Effects
+
+* [Effeckt](https://github.com/h5bp/Effeckt.css) - UI-less, performant transitions & animations
+* [Nifty Modal Window Effects](http://tympanus.net/Development/ModalWindowEffects/)
+* [Page Transitions](http://tympanus.net/Development/PageTransitions/)
+* [PFold](http://tympanus.net/Development/PFold/index2.html) - Paper like unfolding effect
+* [Kontext](http://lab.hakim.se/kontext/) - Context switch transition
+
 ### Style Guides
 
 * [Github CSS Styleguide](https://github.com/styleguide/css)
