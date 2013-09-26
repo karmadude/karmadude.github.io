@@ -39,6 +39,7 @@ Web Toolbox
 * [Page Transitions](http://tympanus.net/Development/PageTransitions/)
 * [PFold](http://tympanus.net/Development/PFold/index2.html) - Paper like unfolding effect
 * [Kontext](http://lab.hakim.se/kontext/) - Context switch transition
+* [cubi-bezier generator](http://cubic-bezier.com/)
 
 ### Style Guides
 
