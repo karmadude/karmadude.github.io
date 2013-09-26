@@ -32,6 +32,7 @@ Web Toolbox
 * [toastr](https://github.com/CodeSeven/toastr) - Javascript library for non-blocking notifications. jQuery is required.
 * [alertify.js](http://fabien-d.github.io/alertify.js/) - Javascript dialogs and alerts.
 * [Ace Web Code Editor](http://ace.c9.io/)
+* [Output Element](http://html5doctor.com/the-output-element/)
 
 ### UI Effects
 
