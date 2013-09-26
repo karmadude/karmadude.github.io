@@ -24,6 +24,7 @@ Web Toolbox
 ### JavaScript
 
 * [Functional.js](http://osteele.com/sources/javascript/functional/) - A library for functional programming in JavaScript
+* [Chainvas.js](http://lea.verou.me/chainvas/) - Add chaining to any API
 
 ### UI
 
