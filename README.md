@@ -42,11 +42,17 @@ Web Toolbox
 * [PFold](http://tympanus.net/Development/PFold/index2.html) - Paper like unfolding effect
 * [Kontext](http://lab.hakim.se/kontext/) - Context switch transition
 * [cubi-bezier generator](http://cubic-bezier.com/)
+* [Grid items loading effects](http://tympanus.net/Development/GridLoadingEffects/index.html)
+* [Drop-down lists](http://tympanus.net/Development/SimpleDropDownEffects/index.html)
 
 ### Style Guides
 
 * [Github CSS Styleguide](https://github.com/styleguide/css)
 * [Bootstrap HTML and CSS code guide](https://github.com/mdo/code-guide)
+
+### Fonds
+
+* [IcoMoon](http://icomoon.io/)
 
 ### Maps
 
