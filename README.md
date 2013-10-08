@@ -50,7 +50,7 @@ Web Toolbox
 * [Github CSS Styleguide](https://github.com/styleguide/css)
 * [Bootstrap HTML and CSS code guide](https://github.com/mdo/code-guide)
 
-### Fonds
+### Fonts
 
 * [IcoMoon](http://icomoon.io/)
 
