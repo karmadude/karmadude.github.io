@@ -25,6 +25,7 @@ Web Toolbox
 
 * [Functional.js](http://osteele.com/sources/javascript/functional/) - A library for functional programming in JavaScript
 * [Chainvas.js](http://lea.verou.me/chainvas/) - Add chaining to any API
+* [Lazy.js](http://danieltao.com/lazy.js/) - Lazy.js it a utility library for JavaScript, similar to Underscore and Lo-Dash but with one important difference: lazy evaluation
 
 ### UI
 
